@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Ricardo Augusto!</h1>
+<h1 align="center"> Olá, Meu Nome é Ricardo Augusto!</h1>
 
 <p align="center">
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> | Futuro Desenvolvedor Full Stack 🚀  
@@ -60,8 +60,7 @@ Atualmente estou focado em evoluir minhas habilidades no desenvolvimento **front
 
 ## 📬 Contato
 
-📧 **Email:** seuemail@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/seu-perfil  
+📧 **Email:** ricardoxxx8706@gmail.com   
 
 ---
 
