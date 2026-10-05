@@ -30,11 +30,11 @@ Atualmente estou focado em aprimorar minhas habilidades no desenvolvimento **fro
 
 **🩺 MedVita** — Aplicativo mobile para a área da saúde
 Agendamento de consultas, busca de clínicas por especialidade e gerenciamento completo de agendas, médicos e horários. Banco de dados modelado em SQLite.
-🔗 `[link do repositório aqui]`
+🔗 [https://github.com/ricardoamdl/medvita]
 
 **🧠 Maduk Study AI** — Aplicação web com IA Generativa
 Assistente de estudos que sintetiza textos acadêmicos, gerando resumos estruturados, flashcards interativos (efeito flip) e mini-quizzes de fixação. Integração com a API da OpenAI.
-🔗 `[link do repositório aqui]`
+🔗 [https://github.com/mateuslira665/Maduk-Study-Assistant]
 
 ---
 
